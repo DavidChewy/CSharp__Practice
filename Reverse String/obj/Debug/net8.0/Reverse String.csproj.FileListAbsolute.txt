@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Reverse String\bin\Debug\net8.0\Reverse String.exe
+C:\Users\David\Desktop\C# Practice Code\Reverse String\bin\Debug\net8.0\Reverse String.deps.json
+C:\Users\David\Desktop\C# Practice Code\Reverse String\bin\Debug\net8.0\Reverse String.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Reverse String\bin\Debug\net8.0\Reverse String.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse String\bin\Debug\net8.0\Reverse String.pdb
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\refint\Reverse String.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.pdb
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\Reverse String.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse String\obj\Debug\net8.0\ref\Reverse String.dll

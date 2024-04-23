@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\bin\Debug\net8.0\Bauble Sort.exe
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\bin\Debug\net8.0\Bauble Sort.deps.json
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\bin\Debug\net8.0\Bauble Sort.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\bin\Debug\net8.0\Bauble Sort.dll
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\bin\Debug\net8.0\Bauble Sort.pdb
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.dll
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\refint\Bauble Sort.dll
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.pdb
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\Bauble Sort.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Bauble Sort\obj\Debug\net8.0\ref\Bauble Sort.dll

@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\bin\Debug\net8.0\Swap numbers.exe
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\bin\Debug\net8.0\Swap numbers.deps.json
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\bin\Debug\net8.0\Swap numbers.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\bin\Debug\net8.0\Swap numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\bin\Debug\net8.0\Swap numbers.pdb
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\refint\Swap numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.pdb
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\Swap numbers.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Swap numbers\obj\Debug\net8.0\ref\Swap numbers.dll

@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\bin\Debug\net8.0\Max Prime Numbers.exe
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\bin\Debug\net8.0\Max Prime Numbers.deps.json
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\bin\Debug\net8.0\Max Prime Numbers.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\bin\Debug\net8.0\Max Prime Numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\bin\Debug\net8.0\Max Prime Numbers.pdb
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\refint\Max Prime Numbers.dll
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.pdb
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\Max Prime Numbers.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Max Prime Numbers\Max Prime Numbers\obj\Debug\net8.0\ref\Max Prime Numbers.dll

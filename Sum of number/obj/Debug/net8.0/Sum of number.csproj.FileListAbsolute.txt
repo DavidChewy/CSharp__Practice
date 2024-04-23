@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Sum of number\bin\Debug\net8.0\Sum of number.exe
+C:\Users\David\Desktop\C# Practice Code\Sum of number\bin\Debug\net8.0\Sum of number.deps.json
+C:\Users\David\Desktop\C# Practice Code\Sum of number\bin\Debug\net8.0\Sum of number.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Sum of number\bin\Debug\net8.0\Sum of number.dll
+C:\Users\David\Desktop\C# Practice Code\Sum of number\bin\Debug\net8.0\Sum of number.pdb
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.dll
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\refint\Sum of number.dll
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.pdb
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\Sum of number.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Sum of number\obj\Debug\net8.0\ref\Sum of number.dll

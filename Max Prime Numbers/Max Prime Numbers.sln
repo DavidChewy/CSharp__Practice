@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Prime Numbers", "Max Prime Numbers\Max Prime Numbers.csproj", "{B751D510-ECC0-4886-8224-C89EA6EB6BDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "..\Reverse String\Reverse String.csproj", "{8435A443-2325-4625-ACF7-34B5390D48AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B751D510-ECC0-4886-8224-C89EA6EB6BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B751D510-ECC0-4886-8224-C89EA6EB6BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B751D510-ECC0-4886-8224-C89EA6EB6BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B751D510-ECC0-4886-8224-C89EA6EB6BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8435A443-2325-4625-ACF7-34B5390D48AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8435A443-2325-4625-ACF7-34B5390D48AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8435A443-2325-4625-ACF7-34B5390D48AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8435A443-2325-4625-ACF7-34B5390D48AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

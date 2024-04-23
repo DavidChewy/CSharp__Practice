@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\bin\Debug\net8.0\Factorial Logic.exe
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\bin\Debug\net8.0\Factorial Logic.deps.json
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\bin\Debug\net8.0\Factorial Logic.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\bin\Debug\net8.0\Factorial Logic.dll
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\bin\Debug\net8.0\Factorial Logic.pdb
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.dll
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\refint\Factorial Logic.dll
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.pdb
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\Factorial Logic.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Factorial Logic\obj\Debug\net8.0\ref\Factorial Logic.dll

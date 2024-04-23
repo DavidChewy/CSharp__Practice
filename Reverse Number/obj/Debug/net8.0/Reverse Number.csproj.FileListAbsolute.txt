@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\bin\Debug\net8.0\Reverse Number.exe
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\bin\Debug\net8.0\Reverse Number.deps.json
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\bin\Debug\net8.0\Reverse Number.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\bin\Debug\net8.0\Reverse Number.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\bin\Debug\net8.0\Reverse Number.pdb
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\refint\Reverse Number.dll
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.pdb
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\Reverse Number.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\Reverse Number\obj\Debug\net8.0\ref\Reverse Number.dll

@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\C# Practice Code\String Length\bin\Debug\net8.0\String Length.exe
+C:\Users\David\Desktop\C# Practice Code\String Length\bin\Debug\net8.0\String Length.deps.json
+C:\Users\David\Desktop\C# Practice Code\String Length\bin\Debug\net8.0\String Length.runtimeconfig.json
+C:\Users\David\Desktop\C# Practice Code\String Length\bin\Debug\net8.0\String Length.dll
+C:\Users\David\Desktop\C# Practice Code\String Length\bin\Debug\net8.0\String Length.pdb
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.AssemblyInfo.cs
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.dll
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\refint\String Length.dll
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.pdb
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\String Length.genruntimeconfig.cache
+C:\Users\David\Desktop\C# Practice Code\String Length\obj\Debug\net8.0\ref\String Length.dll
